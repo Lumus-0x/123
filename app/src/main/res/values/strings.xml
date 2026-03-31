@@ -5,5 +5,13 @@
     <string name="accessibility_service_description">Автоматическая обработка штрихкодов CEN; с отправкой Enter через кастомную клавиатуру</string>
     <string name="notification_channel_name">TSD Auto Service</string>
     <string name="notification_title">TSD Auto активна</string>
+    <string name="accessibility_service">Служба доступности</string>
+    <string name="keyboard">Клавиатура</string>
+    <string name="status_enabled">Включено</string>
+    <string name="status_disabled">Выключено</string>
+    <string name="status_unknown">Неизвестно</string>
+    <string name="enable">Включить</string>
+    <string name="toast_enable_service">Включи службу TSD Auto</string>
+    <string name="toast_enable_keyboard">Выбери клавиатуру TSD Auto</string>
     <string name="notification_text">Служба доступности работает</string>
 </resources>
