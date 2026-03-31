@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSD Auto</string>
+    <string name="enable_service">Включить службу</string>
+    <string name="disable_service">Выключить службу</string>
+    <string name="accessibility_service_description">Автоматическая обработка штрихкодов CEN; с отправкой Enter через кастомную клавиатуру</string>
+    <string name="notification_channel_name">TSD Auto Service</string>
+    <string name="notification_title">TSD Auto активна</string>
+    <string name="notification_text">Служба доступности работает</string>
+</resources>
